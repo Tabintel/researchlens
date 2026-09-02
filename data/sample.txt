@@ -1,0 +1,6 @@
+Research teams read scientific papers, reports, and field notes.
+
+This research project studies how researchers find repeated terms in large
+collections of research material.
+
+The word researcher should not count as an exact match for research.
